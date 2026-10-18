@@ -13,3 +13,4 @@ For AwardSpace deployment, follow [DEPLOY_AWARDSPACE.md](DEPLOY_AWARDSPACE.md).
 
 Quote requests are stored in MySQL and can be tracked from the admin dashboard. Project and portrait uploads accept JPG, PNG, WEBP, and GIF up to 8 MB and are saved in `uploads/`. The frontend uses the MySQL records after setup and retains built-in defaults if the database is not yet connected.
 # Myblogproject
+# yinkasPW
